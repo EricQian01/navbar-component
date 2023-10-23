@@ -16,7 +16,7 @@ const BottomTabNavigator = () => {
                     borderRadius: 20,
                     height: 60,
                 },
-                tabBarActiveTintColor: 'blue',
+                tabBarActiveTintColor: 'green',
                 tabBarInactiveTintColor: 'gray',
                 tabBarShowLabel: false,
                 tabBarIcon: ({ focused, color, size }) => {
